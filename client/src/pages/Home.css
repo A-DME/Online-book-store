@@ -1,0 +1,8 @@
+.Home {
+  background-image: url("../old-library-book.jpg");
+  background-size: contain;
+  height: 100%;
+}
+#root {
+  height: 1600px;
+}
